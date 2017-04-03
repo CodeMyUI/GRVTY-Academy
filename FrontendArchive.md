@@ -29,6 +29,7 @@ We embrace modern CSS, by using flexbox and so on. Here we share with you intere
 #### [PostCSS articles repository](https://github.com/postcss/postcss#articles) 
 ---
 ### Extra goodies
+#### [Code Snippets](https://codemyui.com/)
 #### [Cool CSS experiments and tutorials](https://tympanus.net/codrops/)
 #### [CSS code examples](https://codepen.io/)
 ---
